@@ -5,7 +5,7 @@ require_relative "lib/profession_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name = "profession_view_tool"
   spec.version = ProfessionViewTool::VERSION
-  spec.authors = ["KostyaKobel"]
+  spec.authors = ["Kostya Kobel"]
   spec.email = ["kostp62020@gmail.com"]
 
   spec.summary = "Various view specific methods for applications I use."
