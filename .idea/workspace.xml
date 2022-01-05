@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e8a035-d22f-4b50-9026-c6aea7e0208e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/lib/profession_view_tool.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/lib/profession_view_tool/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profession_view_tool/profession_view_tool.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profession_view_tool.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/profession_view_tool.gemspec" afterDir="false" />
     </list>
@@ -23,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/profession_view_tool" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641388215261</updated>
-      <workItem from="1641388216717" duration="3348000" />
+      <workItem from="1641388216717" duration="3683000" />
     </task>
     <servers />
   </component>

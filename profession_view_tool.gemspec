@@ -10,13 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Various view specific methods for applications I use."
   spec.description = "Provides generated HTML data for Rails applications."
-  spec.homepage = "https://github.com/KostyaKobel"
+  spec.homepage = "https://kostpdom"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
 
 
   spec.metadata["homepage_uri"] = spec.homepage
+ 
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
